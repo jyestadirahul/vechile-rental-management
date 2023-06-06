@@ -1,0 +1,1 @@
+<div class="footer">PRANEETH Copyright@<?php echo date("Y");?></div>

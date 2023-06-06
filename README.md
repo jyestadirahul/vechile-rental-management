@@ -1,2 +1,9 @@
-# vechile-rental-management
-We developed this project to book a vehicle on rent at the fare charges. In present system all booking work done manually and it takes very hard work to maintain the information of booking and vehicles. If you want to find which vehicle is available for booking then it takes a lot of time.
+# car-rental-project
+First install xampp server.
+place the entire project in xampp/htdocs folder in your system.
+Now run apache mySQL in the xampp server.
+Now open localhost/phpmyadmin in your browser.
+Now create now database and import the SQL file.
+After importing now open localhost/vehiclerental in the browser.
+Admin details USERNAME:admin  PASSWORD:admin
+         
